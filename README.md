@@ -148,17 +148,13 @@ Hey! I'm **Puneet Badrel**, a developer exploring the world of web development a
 
 ---
 
-## 🏆 GitHub Trophies
+
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=puneetbadrel-spec&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
-  width="100%"
-  alt="Puneet's GitHub trophies"
-/>
-
+  <img src="./trophy.svg" width="100%" alt="GitHub Trophies" />
 </div>
+
 
 ---
 
