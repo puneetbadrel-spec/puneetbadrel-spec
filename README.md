@@ -152,10 +152,11 @@ Hey! I'm **Puneet Badrel**, a developer exploring the world of web development a
 
 <div align="center">
 
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=puneetbadrel-spec&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"
-    alt="GitHub trophies"
-  />
+<img
+  src="https://github-profile-trophy.vercel.app/?username=puneetbadrel-spec&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+  width="100%"
+  alt="Puneet's GitHub trophies"
+/>
 
 </div>
 
